@@ -24,4 +24,11 @@ $ git commit -m "commit inicial"
 ```
 
 Y despues nos vamos a GitHub y nos logeamos.
+Creamos un repo llamado demojs (vacio y publico)
 
+```shell
+$ git remote add origin https://github.com/usuario/demojs
+$ git push -u origin master
+```
+
+Generar un Personal Access Token con scope repo para usarcomo password.
