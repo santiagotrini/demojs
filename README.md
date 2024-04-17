@@ -7,6 +7,8 @@ $ git clone https://github.com/santiagotrini/termux-config
 $ cd termux-config
 $ cp .vimrc ~
 $ cd
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 $ vim .vimrc
 ```
 
