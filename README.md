@@ -33,4 +33,4 @@ $ git remote add origin https://github.com/usuario/demojs
 $ git push -u origin master
 ```
 
-Generar un Personal Access Token con scope repo para usarcomo password.
+Generar un Personal Access Token con scope repo para usar como password.
